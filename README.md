@@ -4,10 +4,10 @@ Jogo de endless runner onde você controla um dinossauro que deve desviar de obs
 
 ## 🎮 Como Jogar
 
-- **Pular**: Pressione qualquer tecla ou clique na tela
+- **Pular**: Pressione para cima
 - **Objetivo**: Sobreviver o máximo de tempo possível
 - **Vidas**: Você começa com 2 vidas
-- **Power-ups**: Colete as partículas douradas para ganhar pontos e vidas extras
+- **Vidas Extras**: Colete os corações
 
 ## ⚡ Mecânicas do Jogo
 
@@ -19,7 +19,7 @@ Jogo de endless runner onde você controla um dinossauro que deve desviar de obs
 ### Sistema de Vidas
 
 - Display de vidas em tempo real
-- Power-ups de vida coletáveis
+- Vida coletáveis
 - Game Over ao zerar vidas
 
 ### Dificuldade Progressiva
@@ -32,13 +32,26 @@ Jogo de endless runner onde você controla um dinossauro que deve desviar de obs
 
 - **Engine**: GDevelop 5
 - **Linguagem**: Visual Events
-- **Plataforma**: HTML5
+- **Plataforma**:
+
+## Imagens e vídeos
+
+<img src="./readme/foto1.png" width="500" />
+
+<video src="./readme/video1.mp4" controls width="500"></video>
+
+<video src="./readme/video2.mp4" controls width="500"></video>
 
 ## 🎯 Como Jogar
 
 ### Online
 
 [🎮 Clique aqui para jogar](https://gd.games/games/732ca8c4-e9bc-451f-bf6a-b704926d95a2)
+
+## Local
+
+- Baixe os arquvios pelo repositório
+- Utilize a plataforma GDevelop para executar
 
 ## 👥 Desenvolvedores
 
