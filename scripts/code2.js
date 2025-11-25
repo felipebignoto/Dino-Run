@@ -13,6 +13,10 @@ gdjs.LeaderboardCode.GDMeteorObjects1= [];
 gdjs.LeaderboardCode.GDMeteorObjects2= [];
 gdjs.LeaderboardCode.GDLivesTextObjects1= [];
 gdjs.LeaderboardCode.GDLivesTextObjects2= [];
+gdjs.LeaderboardCode.GDbroken_9595heartObjects1= [];
+gdjs.LeaderboardCode.GDbroken_9595heartObjects2= [];
+gdjs.LeaderboardCode.GDBonusObjectObjects1= [];
+gdjs.LeaderboardCode.GDBonusObjectObjects2= [];
 
 
 gdjs.LeaderboardCode.eventsList0 = function(runtimeScene) {
@@ -104,6 +108,10 @@ gdjs.LeaderboardCode.GDMeteorObjects1.length = 0;
 gdjs.LeaderboardCode.GDMeteorObjects2.length = 0;
 gdjs.LeaderboardCode.GDLivesTextObjects1.length = 0;
 gdjs.LeaderboardCode.GDLivesTextObjects2.length = 0;
+gdjs.LeaderboardCode.GDbroken_9595heartObjects1.length = 0;
+gdjs.LeaderboardCode.GDbroken_9595heartObjects2.length = 0;
+gdjs.LeaderboardCode.GDBonusObjectObjects1.length = 0;
+gdjs.LeaderboardCode.GDBonusObjectObjects2.length = 0;
 
 gdjs.LeaderboardCode.eventsList0(runtimeScene);
 gdjs.LeaderboardCode.GDLeaderboardDialogObjects1.length = 0;
@@ -118,6 +126,10 @@ gdjs.LeaderboardCode.GDMeteorObjects1.length = 0;
 gdjs.LeaderboardCode.GDMeteorObjects2.length = 0;
 gdjs.LeaderboardCode.GDLivesTextObjects1.length = 0;
 gdjs.LeaderboardCode.GDLivesTextObjects2.length = 0;
+gdjs.LeaderboardCode.GDbroken_9595heartObjects1.length = 0;
+gdjs.LeaderboardCode.GDbroken_9595heartObjects2.length = 0;
+gdjs.LeaderboardCode.GDBonusObjectObjects1.length = 0;
+gdjs.LeaderboardCode.GDBonusObjectObjects2.length = 0;
 
 
 return;

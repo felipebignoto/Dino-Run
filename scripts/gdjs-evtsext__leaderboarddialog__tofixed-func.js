@@ -9,7 +9,7 @@ gdjs.evtsExt__LeaderboardDialog__ToFixed = {};
 gdjs.evtsExt__LeaderboardDialog__ToFixed.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__LeaderboardDialog__ToFixed.userFunc0x8d9b78 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__LeaderboardDialog__ToFixed.userFunc0xaf2d88 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const valueToBeRounded = eventsFunctionContext.getArgument("ValueToBeRounded");
 const numberOfDecimalPlaces = eventsFunctionContext.getArgument("NumberOfDecimalPlaces");
@@ -30,7 +30,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.evtsExt__LeaderboardDialog__ToFixed.userFunc0x8d9b78(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__LeaderboardDialog__ToFixed.userFunc0xaf2d88(runtimeScene, eventsFunctionContext);
 
 }
 
