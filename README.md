@@ -42,6 +42,8 @@ Jogo de endless runner onde você controla um dinossauro que deve desviar de obs
 
 <video src="./readme/video2.mp4" controls width="500"></video>
 
+[Acesse a pasta completa no Google Drive](https://drive.google.com/drive/folders/16dgM-0y5K0shocs8pJSBf0O7aP0_65En?usp=sharing)
+
 ## 🎯 Como Jogar
 
 ### Online
